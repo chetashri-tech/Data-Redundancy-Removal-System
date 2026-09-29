@@ -1,0 +1,34 @@
+id,name,email,age,city
+1,Arjun Verma,arjun.verma4@outlook.com,35,Mumbai
+2,Sneha Patel,sneha.patel95@gmail.com,52,Pune
+3,Divya Nair,divya.nair5@gmail.com,23,Mumbai
+4,Sneha Joshi,sneha.joshi78@gmail.com,53,Mumbai
+5,Pooja Joshi,pooja.joshi54@gmail.com,46,Delhi
+6,Vikram Sharma,vikram.sharma98@gmail.com,45,Nagpur
+7,Vikram Patel,vikram.patel28@yahoo.com,24,Pune
+8,Karan Verma,karan.verma46@yahoo.com,34,Pune
+9,Pooja Khan,pooja.khan69@gmail.com,42,Pune
+10,Rohan Gupta,rohan.gupta81@outlook.com,41,Delhi
+11,Sneha Verma,sneha.verma6@outlook.com,32,Nagpur
+12,Priya Iyer,priya.iyer13@yahoo.com,35,Nashik
+13,Arjun Reddy,arjun.reddy21@yahoo.com,40,Mumbai
+14,Arjun Gupta,arjun.gupta90@outlook.com,22,Delhi
+15,Arjun Patel,arjun.patel69@outlook.com,33,Mumbai
+16,Neha Nair,neha.nair35@outlook.com,53,Mumbai
+17,Arjun Reddy,arjun.reddy99@gmail.com,32,Pune
+18,Sahil Reddy,sahil.reddy52@yahoo.com,22,Mumbai
+19,Divya Reddy,divya.reddy28@outlook.com,49,Nashik
+20,Arjun Khan,arjun.khan19@yahoo.com,26,Mumbai
+21,Sahil Reddy,sahil.reddy52@yahoo.com,22,Mumbai
+22,Arjun Khan,arjun.khan19@yahoo.com,26,Mumbai
+23,Pooja Khan,pooja.khan69@gmail.com,42,Pune
+24,Arjun Gupta,arjun.gupta90@outlook.com,22,Delhi
+25,Arjun Reddy,arjun.reddy21@yahoo.com,40,Mumbai
+26,Priya Iyer,priya.iyer13@yahoo.com,36,Nashik
+27,Karan Verma,karan.verma46@yahoo.com,35,Pune
+28,Pooja Joshi,pooja.joshi54@gmail.com,47,Delhi
+29,,noemail@gmail.com,25,Pune
+30,Test User,not-an-email,30,Mumbai
+31,Bad Age,badage@gmail.com,200,Nashik
+32,Negative Age,negage@gmail.com,-5,Pune
+33,No City,nocity@gmail.com,22,
